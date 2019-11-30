@@ -1,0 +1,6 @@
+POST http://localhost:3000/api/url/shorten
+Content-Type: application/json
+
+{
+  "longUrl": "https://www.youtube.com/watch?v=Z57566JBaZQ&list=PLWTL0yD4StRO3mFTDFq8VSGByh9lIJYaf&index=34&t=0s"
+}

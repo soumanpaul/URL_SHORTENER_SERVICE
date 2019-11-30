@@ -1,0 +1,6 @@
+{
+   "mongoURI": "mongodb://localhost:27017/shortURL",
+   "baseUrl": "http://localhost:3000"
+}
+
+/* mongodb+srv://Sam1729Paul:Sam$1994@#@cluster0-qhlvw.mongodb.net/test?retryWrites=true&w=majority */
